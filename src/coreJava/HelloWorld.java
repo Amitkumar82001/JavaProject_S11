@@ -7,3 +7,8 @@ public class HelloWorld {
         System.out.println("Hello World..");
     }
 }
+
+/**
+ * Shift twice > Search everywhere
+ * Ctrl+E > Recent files
+ */
